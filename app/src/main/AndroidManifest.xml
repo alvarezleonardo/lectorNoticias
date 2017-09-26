@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="a3.n1mo.mobjav.a816.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyAppTheme">
+        <activity
+            android:name=".View.Activity.MainActivity"
+            android:parentActivityName=".View.Activity.ActivityLogIn" />
+        <activity android:name=".View.Activity.ActivityLogIn">
+
+        </activity>
+        <activity
+            android:name=".View.Activity.Seleccion_Canal_Activity"
+            android:parentActivityName=".View.Activity.ActivityLogIn" />
+        <activity
+            android:name=".View.Activity.ActivityMisCanales"
+            android:parentActivityName=".View.Activity.ActivityLogIn" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="aca va APE Key de Facebook" />
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="Aca va API Key de fabric" />
+
+        <activity android:name=".View.Activity.DetalleOriginalNews" />
+
+        <activity
+            android:name=".View.Activity.SplashActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

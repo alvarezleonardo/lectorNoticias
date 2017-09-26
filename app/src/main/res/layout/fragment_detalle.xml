@@ -1,0 +1,58 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardElevation="5dp">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5dp"
+    tools:context="a3.n1mo.mobjav.a816.myapplication.View.Activity.DetalleFragment">
+
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:scaleType="fitXY"
+            android:id="@+id/imagenCanalAmpliada"
+            android:paddingBottom="10dp"
+            android:paddingTop="2dp"
+            android:paddingLeft="@dimen/margen_interior_noticia"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:background="#8a000000"
+            android:paddingLeft="@dimen/margen_interior_noticia"
+            android:textSize="20dp"
+            android:layout_below="@+id/imagenCanalAmpliada"
+            android:id="@+id/textViewTitleNewsAmpliada"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:background="#8a000000"
+            android:paddingLeft="@dimen/margen_interior_noticia"
+            android:paddingTop="10dp"
+            android:textSize="15dp"
+            android:paddingBottom="10dp"
+            android:layout_below="@+id/textViewTitleNewsAmpliada"
+            android:id="@+id/detalleNoticiaAmpliada"/>
+
+        <ImageView
+            android:id="@+id/imagenNoticiaAmpliada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/detalleNoticiaAmpliada" />
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

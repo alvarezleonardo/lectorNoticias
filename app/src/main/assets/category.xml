@@ -1,0 +1,39 @@
+<category>
+    <name>Deportes</name>
+    <description></description>
+    <tags>
+        <item>deporte</item>
+        <item>deportes</item>
+        <item>futbol</item>
+    </tags>
+</category>
+
+<category>
+    <name>Sociedad</name>
+    <description></description>
+    <tags>
+        <item>literatura</item>
+        <item>sociedad</item>
+        <item>rn</item>
+    </tags>
+</category>
+
+<category>
+    <name>Politica</name>
+    <description></description>
+    <tags>
+        <item>politica</item>
+        <item>diputados</item>
+        <item>macri</item>
+    </tags>
+</category>
+
+<category>
+    <name>Policiales</name>
+    <description></description>
+    <tags>
+        <item>policial</item>
+        <item>policiales</item>
+        <item>robo</item>
+    </tags>
+</category>

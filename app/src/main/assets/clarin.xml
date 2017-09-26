@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title><![CDATA[Clarin.com - Home]]></title>
+        <link>http://www.clarin.com/</link>
+        <description><![CDATA[Clarin.com - Home]]></description>
+
+        <language><![CDATA[es]]></language>
+
+        <copyright><![CDATA[Copyright 1996-2011 Clarin.com - All rights reserved]]></copyright>
+
+        <ttl><![CDATA[10]]></ttl>
+
+        <image><url>http://www.clarin.com/static/CLAClarinV3/images/logo.png</url>
+            <title><![CDATA[Clarin.com - Home]]></title>
+            <link>http://www.clarin.com/</link></image>
+
+        <item>
+            <title><![CDATA[El fraude del "iPhone de la bellota", el smartphone español que quería competir con Apple]]></title>
+            <link>http://www.clarin.com/next/bellota-smartphone-espanol-competir-Apple_0_1674432640.html</link>
+            <description><![CDATA[Al final, la empresa acepta que dar soporte en España es el principal valor añadido de los productos que vende. La polémica.]]></description>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/next/bellota-smartphone-espanol-competir-Apple_0_1674432640.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 16:11:04 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/next/bellota-mordida-sugerente-remite-iPhone_CLAIMA20161024_0264_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Nelson Vivas: “Preparamos el partido con San Lorenzo por Whatsapp”]]></title>
+            <link>http://www.clarin.com/deportes/futbol/estudiantes/Nelson-Vivas-Preparamos-Lorenzo-Whatsapp_0_1674432638.html</link>
+            <description><![CDATA[El director técnico de Estudiantes, puntero del campeonato, contó que organizó los últimos detalles del crucial encuentro vía chat.]]></description>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/deportes/futbol/estudiantes/Nelson-Vivas-Preparamos-Lorenzo-Whatsapp_0_1674432638.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:52:58 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/deportes/futbol/estudiantes/Nelson-Vivas-dirigiendo-Estudiantes-Clarin_CLAIMA20161024_0255_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Señales de la esfinge Dylan]]></title>
+            <link>http://www.clarin.com/rn/literatura/Senales-esfinge-Dylan_0_1673232665.html</link>
+            <description/>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/rn/literatura/Senales-esfinge-Dylan_0_1673232665.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:48:16 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/rn/edicion-impresa/Senales-esfinge-Dylan_CLAIMA20161022_0003_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Un origen natural y cultural compartido]]></title>
+            <link>http://www.clarin.com/rn/ideas/origen-natural-cultural-compartido_0_1673232671.html</link>
+            <description><![CDATA[Ecología. Entender la naturaleza, ya no como un decorado sino como lo que convive desde siempre con la humanidad, es un desafío del presente. Sin los animales, este reino será destruido, sostiene el autor.]]></description>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/rn/ideas/origen-natural-cultural-compartido_0_1673232671.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:46:04 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/rn/ideas/Chauvet_CLAIMA20161024_0258_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Adiós a Alvaro Arrese: pasión por la arquitectura y la docencia]]></title>
+            <link>http://www.clarin.com/arq/arquitectura/Adios-Alvaro-Arrese-arquitectura-docencia_0_1674432639.html</link>
+            <description><![CDATA[Profesional admirado por sus colegas, falleció el sábado 22 de octubre. Su meta era conciliar la utilidad social con la vanguardia.]]></description>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/arq/arquitectura/Adios-Alvaro-Arrese-arquitectura-docencia_0_1674432639.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:44:11 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/arq/arquitectura/ALVARO-ARRESE-dedicado-escritos-Corbusier_CLAIMA20161024_0256_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[¿Estamos en el umbral de una civilización nueva?]]></title>
+            <link>http://www.clarin.com/rn/ideas/Jean-Luc-Nancy-umbral-civilizacion-nueva_0_1673232669.html</link>
+            <description><![CDATA[Entrevista. Jean-Luc Nancy dice que una era está finalizando y que vivimos una transición de ausencia de criterios. Volver al pensamiento crítico es la necesidad imperiosa, asegura.]]></description>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/rn/ideas/Jean-Luc-Nancy-umbral-civilizacion-nueva_0_1673232669.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:43:11 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/rn/ideas/Nancy_CLAIMA20161024_0254_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Arriar velas para los libros de otros]]></title>
+            <link>http://www.clarin.com/rn/literatura/resenas/Nora-Avaro-Arriar-velas-libros_0_1673232687.html</link>
+            <description><![CDATA[Crítica. La palabra ensayo apenas insinúa la grácil y novedosa clase de textos que ofrece Nora Avaro a la hora de comentar escritos ajenos.]]></description>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/rn/literatura/resenas/Nora-Avaro-Arriar-velas-libros_0_1673232687.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:41:48 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/rn/literatura/resenas/Nora-Avaro_CLAIMA20161024_0253_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Un accidente en el Moto GP de Australia asustó a todos]]></title>
+            <link>http://www.clarin.com/deportes/automovilismo/accidente-Moto-GP-Australia-asusto_0_1674432580.html</link>
+            <description><![CDATA[El británico John McPhee perdió el equilibrio y la moto del italiano Andrea Migno lo pasó por encima.]]></description>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/deportes/automovilismo/accidente-Moto-GP-Australia-asusto_0_1674432580.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:41:03 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/deportes/automovilismo/GP-Australia-AP-PhotoRob-Griffith_CLAIMA20161024_0121_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Macri y Tabaré Vázquez: "En estos términos, Venezuela no puede ser parte del Mercosur"]]></title>
+            <link>http://www.clarin.com/politica/Macri-Tabare-Vazquez-Venezuela-Mercosur_0_1674432637.html</link>
+            <description><![CDATA[Lo dijo el Presidente en la reunión con su par uruguayo, que también coincidió. "Esperamos que haya una solución pacífica", agregó Vázquez.]]></description>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/politica/Macri-Tabare-Vazquez-Venezuela-Mercosur_0_1674432637.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:27:41 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+
+            <enclosure url="http://images.clarin.com/politica/Mauricio-Vazquez-Quinta-Olivos-Andres_CLAIMA20161024_0267_28.jpg" length="0" type="image/jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Encontrar el sentido en la desobediencia]]></title>
+            <link>http://www.clarin.com/rn/ideas/sentido-desobediencia_0_1673232670.html</link>
+            <description/>
+
+            <guid isPermaLink="true"><![CDATA[http://www.clarin.com/rn/ideas/sentido-desobediencia_0_1673232670.html]]></guid>
+
+            <pubDate><![CDATA[Mon, 24 Oct 2016 15:22:12 -0300]]></pubDate>
+
+            <dc:creator><![CDATA[Clarin.com]]></dc:creator>
+        </item>
+    </channel>
+</rss>

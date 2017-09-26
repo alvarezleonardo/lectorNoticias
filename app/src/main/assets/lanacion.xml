@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://contenidos.lanacion.com.ar/herramientas/rss/categoria/</id>
+    <title>Sociedad - lanacion.com</title>
+    <logo>http://www.lanacion.com.ar/imgs/layout/logos/ln_112x16.gif</logo>
+    <link rel="self" type="application/atom+xml" href="http://www.lanacion.com.ar/herramientas/rss/index.aspx?categoria_id=" />
+    <updated>2016-10-24T15:53:00-03:00</updated>
+    <rights>
+        Copyright (c) 2016, SA LA NACION
+    </rights>
+    <icon>http://www.lanacion.com.ar/favicon.ico</icon>
+    <entry>
+        <id>http://www.lanacion.com.ar/1950020-chascomus-un-hombre-mato-a-su-esposa-de-un-escopetazo-e-intento-suicidarse</id>
+        <title>Chascomús: un hombre mató a su esposa de un escopetazo e intentó suicidarse</title>
+        <link href="http://www.lanacion.com.ar/1950020-chascomus-un-hombre-mato-a-su-esposa-de-un-escopetazo-e-intento-suicidarse" />
+        <updated>2016-10-24T15:53:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El femicidio ocurrió un día después del triple asesinato de Mendoza<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1950018-guillermo-agota-las-excusas-mientras-boca-sigue-sin-funcionar</id>
+        <title>Excusas que no sirven de coartada: Guillermo agota argumentos mientras Boca sigue sin funcionar</title>
+        <link href="http://www.lanacion.com.ar/1950018-guillermo-agota-las-excusas-mientras-boca-sigue-sin-funcionar" />
+        <updated>2016-10-24T15:24:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El entrenador xeneiza se va quedando sin argumentos para explicar por qué su equipo no encuentra algo parecido a un funcionamiento estable<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+        <category term="Fútbol" />
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949980-el-imperdible-video-de-diego-maradona-por-el-dia-del-hincha-de-argentinos-juniors</id>
+        <title>El imperdible video de Diego Maradona por el día del hincha de Argentinos Juniors</title>
+        <link href="http://www.lanacion.com.ar/1949980-el-imperdible-video-de-diego-maradona-por-el-dia-del-hincha-de-argentinos-juniors" />
+        <updated>2016-10-24T15:00:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El ex N°10 grabó un mensaje para los fanáticos del Bicho, que como cada 24 de octubre desde 1985 celebran una jornada única<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+        <category term="Fútbol" />
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1950013-el-papa-francisco-recibio-a-nicolas-maduro-en-el-vaticano</id>
+        <title>El papa Francisco recibió a Nicolás Maduro en el Vaticano</title>
+        <link href="http://www.lanacion.com.ar/1950013-el-papa-francisco-recibio-a-nicolas-maduro-en-el-vaticano" />
+        <updated>2016-10-24T14:56:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El Papa instó "al diálogo sincero y constructivo" entre el gobierno y la oposición con el fin de "aliviar el sufrimiento" de la gente<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/41/2290941w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1950008-asi-fue-el-tiroteo-entre-policias-en-el-que-murieron-dos-agentes</id>
+        <title>Así fue el tiroteo entre policías en el que murieron dos miembros de la Federal</title>
+        <link href="http://www.lanacion.com.ar/1950008-asi-fue-el-tiroteo-entre-policias-en-el-que-murieron-dos-agentes" />
+        <updated>2016-10-24T14:42:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Ocurrió el jueves en Isidro Casanova; una cámara de seguridad grabó el momento de los disparos<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1950005-elisa-carrio-rechaza-la-ley-que-impulsa-el-gobierno-para-desplazar-a-alejandra-gils-carbo</id>
+        <title>Elisa Carrió rechaza la ley que impulsa el Gobierno para desplazar a Alejandra Gils Carbó</title>
+        <link href="http://www.lanacion.com.ar/1950005-elisa-carrio-rechaza-la-ley-que-impulsa-el-gobierno-para-desplazar-a-alejandra-gils-carbo" />
+        <updated>2016-10-24T14:35:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">La líder de la CC sostiene que la iniciativa oficial "desnaturaliza" la institución e insiste en que la procuradora debe ser destituida con un juicio político<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1950003-mauricio-macri-y-tabare-vazquez-olivos</id>
+        <title>Mauricio Macri, tras la reunión con Tabaré Vázquez: "En estos términos, Venezuela no puede ser parte del Mercosur"</title>
+        <link href="http://www.lanacion.com.ar/1950003-mauricio-macri-y-tabare-vazquez-olivos" />
+        <updated>2016-10-24T14:08:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El Presidente recibió a  su par del Uruguay en la quinta de Olivos; después de almorzar ofrecieron una conferencia de prensa conjunta<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949999-un-juez-determino-que-manejar-autos-para-uber-no-es-delito</id>
+        <title>Un juez determinó que manejar autos para Uber no es delito</title>
+        <link href="http://www.lanacion.com.ar/1949999-un-juez-determino-que-manejar-autos-para-uber-no-es-delito" />
+        <updated>2016-10-24T13:26:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El fallo sostiene, incluso, que quienes conducen vehículos para Uber desarrollan "una actividad comercial lícita“<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/81/1851481w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949996-luis-delia-se-quejo-por-el-despido-de-su-hijo-de-la-anses</id>
+        <title>Luis D'Elía se quejó por el despido de su hijo de la Anses</title>
+        <link href="http://www.lanacion.com.ar/1949996-luis-delia-se-quejo-por-el-despido-de-su-hijo-de-la-anses" />
+        <updated>2016-10-24T13:25:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El ex piquetero asegura que tiene el título secundario y alega que tiene 10 años de antigüedad en el organismo<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949994-whatsapp-comienza-a-habilitar-las-videollamadas-para-su-mensajero</id>
+        <title>Whatsapp comienza a habilitar las videollamadas para su mensajero</title>
+        <link href="http://www.lanacion.com.ar/1949994-whatsapp-comienza-a-habilitar-las-videollamadas-para-su-mensajero" />
+        <updated>2016-10-24T13:12:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Por ahora sólo está disponible a modo de prueba en la versión beta; en los próximos dias debería estar disponible en la versión oficial de la aplicación de chat<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/23/2196723w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949985-echaron-de-anses-al-hijo-de-luis-delia-por-no-tener-titulo-secundario</id>
+        <title>Echaron de Anses a un hijo de Luis D'Elía por no tener título secundario</title>
+        <link href="http://www.lanacion.com.ar/1949985-echaron-de-anses-al-hijo-de-luis-delia-por-no-tener-titulo-secundario" />
+        <updated>2016-10-24T12:50:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Facundo D’Elía fue desvinculado de las oficinas de Tolhuin, Tierra del Fuego; el piquetero denunció una persecución política<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/40/2290840w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949987-se-tensa-la-pelea-entre-los-pilotos-y-aerolineas-y-hay-amenazas-de-paro</id>
+        <title>Se tensa la pelea entre los pilotos y Aerolíneas y hay amenazas de paro</title>
+        <link href="http://www.lanacion.com.ar/1949987-se-tensa-la-pelea-entre-los-pilotos-y-aerolineas-y-hay-amenazas-de-paro" />
+        <updated>2016-10-24T12:44:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">La empresa ofreció al gremio una suba salarial de 35% no remunerativo con lo que el impacto en el bolsillo es mayor a 40%; el sindicato amenazó con nuevas medidas de fuerza<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/34/2290834w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949979-mauricio-macri-la-matanza-metrobus-magario</id>
+        <title>Macri recorrió las obras del Metrobus en La Matanza con Vidal y la kirchnerista Magario</title>
+        <link href="http://www.lanacion.com.ar/1949979-mauricio-macri-la-matanza-metrobus-magario" />
+        <updated>2016-10-24T12:37:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El Presidente visitó el municipio más grande y populoso del país y se mostró con la intendenta del FPV<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949991-gallardo-sigue-enojado-me-gustaria-saber-quien-fue-el-craneo-que-tomo-la-decision-de-expulsarme</id>
+        <title>Gallardo sigue enojado: "Me gustaría saber quién fue el cráneo que tomó la decisión de expulsarme"</title>
+        <link href="http://www.lanacion.com.ar/1949991-gallardo-sigue-enojado-me-gustaria-saber-quien-fue-el-craneo-que-tomo-la-decision-de-expulsarme" />
+        <updated>2016-10-24T12:34:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El entrenador de River se mostró molesto tras la situación que vivió el sábado ante Atlético de Rafaela y criticó la decisión; además, aseguró que aguarda por la recuperación de Nacho Fernández, que padece una lumbalgia, para jugar ante Unión<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+        <category term="Fútbol" />
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949983-lo-mato-porque-tardaba-en-estacionar</id>
+        <title>Lo mató porque tardaba en estacionar</title>
+        <link href="http://www.lanacion.com.ar/1949983-lo-mato-porque-tardaba-en-estacionar" />
+        <updated>2016-10-24T12:32:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Ocurrió en la localidad bonaerense de William Morris; la víctima, un camionero de 31 años, recibió varios balazos en medio de los reproches<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949978-kuznetsova-lloro-se-corto-el-pelo-en-un-descanso-levanto-un-match-point-y-vencio-a-la-campeona-vigente-del-masters-femenino</id>
+        <title>Kuznetsova lloró, se cortó el pelo en un descanso, levantó un match point y venció a la campeona vigente del Masters femenino</title>
+        <link href="http://www.lanacion.com.ar/1949978-kuznetsova-lloro-se-corto-el-pelo-en-un-descanso-levanto-un-match-point-y-vencio-a-la-campeona-vigente-del-masters-femenino" />
+        <updated>2016-10-24T12:05:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">En un cambio de lado, la tenista rusa tomó una tijera y se quitó unos centímetros de su cabello; luego, derrotó a a la polaca Agnieszka Radwanska, defensora del título, por 7-5, 1-6 y 7-5<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+        <category term="Tenis" />
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949974-hillary-clinton-donald-trump-recorrido-eeuu-casa-blanca</id>
+        <title>La abogada y el millonario: un recorrido en video por las carreras de Hillary Clinton y Donald Trump</title>
+        <link href="http://www.lanacion.com.ar/1949974-hillary-clinton-donald-trump-recorrido-eeuu-casa-blanca" />
+        <updated>2016-10-24T11:47:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">La demócrata y el republicano debieron atravesar varias instancias hasta llegar a las puertas de la Casa Blanca<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949973-en-tucuman-los-drones-se-fabrican-con-cana-de-bambu</id>
+        <title>En Tucumán, los drones se fabrican con caña de bambú</title>
+        <link href="http://www.lanacion.com.ar/1949973-en-tucuman-los-drones-se-fabrican-con-cana-de-bambu" />
+        <updated>2016-10-24T11:46:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Investigadores de la Universidad de Tucumán utilizan madera de bambú para la fabricación de drones que luego se usan en el monitoreo de cultivos o de ganado<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/60/2290760w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949972-hector-daer-cruzo-a-jorge-triaca-por-el-bono-en-cuotas-eso-nunca-se-discutio</id>
+        <title>Héctor Daer cruzó a Jorge Triaca por el bono en cuotas: "Eso nunca se discutió"</title>
+        <link href="http://www.lanacion.com.ar/1949972-hector-daer-cruzo-a-jorge-triaca-por-el-bono-en-cuotas-eso-nunca-se-discutio" />
+        <updated>2016-10-24T11:26:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Negó que los sindicalistas haya aceptado esa opción en los sectores que no pueden afrontar el pago de la compensación; "Los trabajadores estamos peor que hace un año", dijo<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949961-la-foto-retro-con-la-que-ginobili-le-dio-a-laprovittola-la-bienvenida-oficial-a-los-spurs</id>
+        <title>La foto retro con la que Ginóbili le dio a Laprovittola la bienvenida oficial a los Spurs</title>
+        <link href="http://www.lanacion.com.ar/1949961-la-foto-retro-con-la-que-ginobili-le-dio-a-laprovittola-la-bienvenida-oficial-a-los-spurs" />
+        <updated>2016-10-24T11:01:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml"><br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949170-hp-renueva-su-lineas-de-notebooks-de-alta-gama</id>
+        <title>HP renueva su oferta local de notebooks de alta gama con la delgadísima Spectre</title>
+        <link href="http://www.lanacion.com.ar/1949170-hp-renueva-su-lineas-de-notebooks-de-alta-gama" />
+        <updated>2016-10-24T11:00:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El equipo tiene 10,4 mm de grosor; también ofrecerá los modelos x360 con pantalla reversible<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/27/2289527w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949960-margarita-stolbizer-me-gustaria-ver-a-cristina-paseando-preocupada-por-comodoro-py-dia-por-medio</id>
+        <title>Margarita Stolbizer: "Me gustaría ver a Cristina paseando preocupada por Comodoro Py día por medio"</title>
+        <link href="http://www.lanacion.com.ar/1949960-margarita-stolbizer-me-gustaria-ver-a-cristina-paseando-preocupada-por-comodoro-py-dia-por-medio" />
+        <updated>2016-10-24T10:43:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">La diputada dijo que la ex presidenta debe dedicarse a dar respuestas en todas las causas en las que se la investiga; hará un nueva presentación en la causa Hotesur<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949965-triple-femicidio-en-mendoza-daniel-zalazar-quiso-suicidarse</id>
+        <title>Triple femicidio en Mendoza: Daniel Zalazar quiso suicidarse</title>
+        <link href="http://www.lanacion.com.ar/1949965-triple-femicidio-en-mendoza-daniel-zalazar-quiso-suicidarse" />
+        <updated>2016-10-24T10:28:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Reforzaron las medidas de seguridad del calabozo en el que pasó la noche el acusado<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/41/2290741w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949969-la-construccion-volvio-a-contraerse-en-septiembre</id>
+        <title>La construcción volvió a contraerse en septiembre</title>
+        <link href="http://www.lanacion.com.ar/1949969-la-construccion-volvio-a-contraerse-en-septiembre" />
+        <updated>2016-10-24T10:25:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El despacho de cemento, que había aumentado en agosto, se desplomó 11,5% en septiembre; se crearon poco más de 6000 puestos de trabajo<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/49/2290749w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949957-avion-accidente-malta-muertes</id>
+        <title>Video: así fue el instante en que un avión en Malta se estrelló contra el suelo</title>
+        <link href="http://www.lanacion.com.ar/1949957-avion-accidente-malta-muertes" />
+        <updated>2016-10-24T10:20:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El vuelo formaba parte de una operación de vigilancia de la Aduana francesa; murieron cinco personas<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/22/2290722w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949958-el-detenido-daniel-zalazar-hablo-sobre-el-triple-femicidio-me-hicieron-sacar</id>
+        <title>El detenido Daniel Zalazar habló sobre el triple femicidio: "Me hicieron sacar"</title>
+        <link href="http://www.lanacion.com.ar/1949958-el-detenido-daniel-zalazar-hablo-sobre-el-triple-femicidio-me-hicieron-sacar" />
+        <updated>2016-10-24T10:13:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El experto en artes marciales pasó la noche en una comisaría de Godoy Cruz; intentó suicidarse<br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/71/2290571w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949962-estudiantes-se-afianza-en-la-punta-y-otros-titulos-de-la-jornada</id>
+        <title>Estudiantes se afianza en la punta, y otros títulos de la jornada</title>
+        <link href="http://www.lanacion.com.ar/1949962-estudiantes-se-afianza-en-la-punta-y-otros-titulos-de-la-jornada" />
+        <updated>2016-10-24T10:11:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml"><br /><img src="http://bucket.lanacion.com.ar/anexos/fotos/69/2290769w346.jpg" /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949743-la-evolucion-en-el-ranking-como-quedara-del-potro-tras-la-conquista-de-estocolmo</id>
+        <title>La evolución en el ranking: cómo quedó Juan Martín del Potro tras la conquista de Estocolmo</title>
+        <link href="http://www.lanacion.com.ar/1949743-la-evolucion-en-el-ranking-como-quedara-del-potro-tras-la-conquista-de-estocolmo" />
+        <updated>2016-10-24T09:52:37.647-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Desde este lunes, el tandilense volvió a ser el número 1 argentino según la clasificación de la ATP<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+        <category term="Tenis" />
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949952-prat-gay-el-egresado-mas-aplaudido-del-cardenal-newman</id>
+        <title>Prat-Gay: el egresado más aplaudido del Cardenal Newman</title>
+        <link href="http://www.lanacion.com.ar/1949952-prat-gay-el-egresado-mas-aplaudido-del-cardenal-newman" />
+        <updated>2016-10-24T09:52:00-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">El discurso de Mauricio Macri en la celebración anual del colegio desató un verdadero aplausómetro por parte de los presentes<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.lanacion.com.ar/1949799-la-jugada-de-la-polemica-era-valido-el-gol-anulado-a-atletico-tucuman</id>
+        <title>Las jugadas de la polémica: ¿eran válidos los goles anulados a Atlético Tucumán?</title>
+        <link href="http://www.lanacion.com.ar/1949799-la-jugada-de-la-polemica-era-valido-el-gol-anulado-a-atletico-tucuman" />
+        <updated>2016-10-24T09:46:18.860-03:00</updated>
+        <summary> </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">En el primer tiempo, Luis Rodríguez anotó lo que era el empate parcial, pero Abal lo anuló por un presunto fuera de juego; sobre la hora, le ahogaron el grito a Zampedri<br /></div>
+        </content>
+        <author>
+            <name>lanacion.com</name>
+            <uri>http://www.lanacion.com.ar</uri>
+            <email>noreply@lanacionline.com.ar</email>
+        </author>
+        <category term="Fútbol" />
+    </entry>
+</feed>

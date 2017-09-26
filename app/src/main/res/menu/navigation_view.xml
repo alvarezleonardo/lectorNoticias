@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/categorias"
+        android:id="@+id/idCategory"
+        android:title="Categorias">
+    </item>
+
+    <group
+        android:id="@+id/menutop"
+        android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/politica"
+            android:id="@+id/idPolitica"
+            android:title="Politica">
+        </item>
+        <item
+            android:icon="@drawable/ic_cake_black_24dp"
+            android:id="@+id/idSociedad"
+            android:title="Sociedad">
+        </item>
+        <item
+            android:icon="@drawable/deporte"
+            android:id="@+id/idDeportes"
+            android:title="Deportes">
+        </item>
+        <item
+            android:icon="@drawable/nuevo"
+            android:id="@+id/idUltimo"
+            android:title="Lo último">
+        </item>
+    </group>
+
+    <group>
+
+        <item
+            android:icon="@drawable/hecho"
+            android:id="@+id/misSuscripciones"
+            android:title="Suscripciones">
+        </item>
+
+        <item
+
+            android:icon="@drawable/libro"
+            android:id="@+id/marcadas"
+            android:title="Leer mas tarde">
+        </item>
+        <item
+            android:icon="@drawable/favoritos"
+            android:id="@+id/favoritas"
+            android:title="Favoritas">
+        </item>
+        <item
+            android:icon="@drawable/signouto"
+            android:id="@+id/MenuSignOut"
+            android:title="Sign Out">
+        </item>
+
+    </group>
+
+
+
+</menu>
